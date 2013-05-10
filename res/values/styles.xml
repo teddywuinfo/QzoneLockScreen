@@ -1,0 +1,21 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <style name="AppTheme" parent="android:Theme.Light" />
+    <style name="AnimationFade">
+	    <item name="android:windowEnterAnimation">@anim/popupin</item>
+	    <item name="android:windowExitAnimation">@anim/popupout</item>
+	</style>
+	<style name="accountText">
+	    <item name="android:textSize">32sp</item>
+	    <item name="android:textStyle">normal</item>
+	</style>
+	<style name="uinText">
+	    <item name="android:textSize">18sp</item>
+	    <item name="android:textColor">#f7b67a</item>
+	</style>
+	<style name="buttonStyle">
+	    <item name="android:textSize">18sp</item>
+	    <item name="android:textColor">#ffffff</item>
+	</style>
+
+</resources>

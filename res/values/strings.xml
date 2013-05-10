@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, Qzone锁</string>
+    <string name="app_name">Qzone锁</string>
+    <string name="register_text">注册一个新帐号</string>
+    <string name="register_qq">随机注册QQ号</string>
+    <string name="register_mobile">用手机号注册</string>
+    <string name="register_email">用电子邮箱注册</string>
+    <string name="register_quit">关闭</string>
+	<string name="loginWord">登录</string>
+	<string name="loginName">QQ号/手机号/邮箱</string>
+	<string name="loginPswd">密码</string>
+	<string name="recordPswd">记住密码</string>
+	<string name="autoLogin">自动登录</string>
+	<string name="reg">注册新帐号</string>
+	<string name="findPswd">忘记密码?</string>    
+	<string name="errorAccount">帐号或密码错误</string>
+	<string name="buttonOK">确定</string>
+	<string name="buttonCancel">取消</string>	
+	<string name="agreeItem">http://zc.qq.com/chs/agreement1_chs.html</string>
+	<string name="regQQ">注册QQ号</string>
+	<string name="regPhone">注册手机帐号</string>
+	<string name="regEmail">注册邮箱帐号</string>
+			<!-- for email address -->
+	<string name="gmail.com">http://www.gmail.com</string>
+	<string name="hotmail.com">http://www.hotmail.com</string>
+	<string name="yahoo.com">http://mail.yahoo.com</string>
+	<string name="vip.sina.com">http://vip.sina.com</string>
+	<string name="msn.com">http://www.hotmail.com</string>
+	<string name="live.com">http://www.hotmail.com</string>
+	<string name="aol.com">http://www.mail.aol.com</string>
+	<string name="n189.com">http://webmail28.189.cn</string>
+	<string name="n139.com">http://mail.10086.cn/</string>
+	<string name="wo.com.cn">http://mail.wo.com.cn</string>
+	<string name="n163.com">http://mail.163.com</string>
+	<string name="n126.com">http://www.126.com</string>
+	<string name="sina.com">http://mail.sina.com</string>
+	<string name="sina.cn">http://mail.sina.com.cn</string>
+	<string name="sohu.com">http://mail.sohu.com</string>
+	<string name="yeah.net">http://www.yeah.net</string>
+	<string name="live.cn">http://www.hotmail.com</string>
+	<string name="yahoo.cn">http://mail.yahoo.cn</string>
+	<string name="yahoo.com.cn">http://mail.yahoo.cn</string> 
+	<string name="rockmail.com">http://mail.yahoo.com</string>
+	<string name="ymail.com">http://mail.yahoo.com</string>
+	<string name="n263.net">http://www.263.com</string>
+	<string name="n263.net.cn">http://www.263.com</string>
+	<string name="x263.net">http://www.263.com</string>
+	<string name="vsnl.com">http://webmail.vsnl.com</string>
+	<string name="libero.it">http://login.libero.it</string>
+	<string name="cyber.net.pk">http://webmail.cyber.net.pk</string>
+	<string name="startshareService">启动QQ票据共享服务</string>
+	<string name="startpushService">启动QQ push服务</string>
+</resources>

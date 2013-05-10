@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="transparent">#00000000</color>
+    <color name="imageBorder">#ffffffff</color>
+    <color name="points">#c000ff00</color>
+    <color name="viewfinderMask">#60000000</color>
+    <color name="resultView">#b0000000</color>
+    <color name="viewfinderBorder">#ff000000</color>
+    <color name="viewfinderLaser">#ff00ff44</color>
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+    <color name="nickColor">#04AEAF</color>
+    <color name="backColor">#D7DCDF</color>
+    <color name="bcColor">#14E4D2</color>
+    <color name="textFocus">#9f9f9f</color>
+    <color name="hintColor">#9f9f9f</color>
+</resources>
